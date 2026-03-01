@@ -135,12 +135,14 @@ Remember: reply with ONLY valid JSON matching the schema above. No markdown, no 
 
       if (!res.ok) {
         const errText = await res.text();
-        if ([429, 404, 400, 502, 503].includes(res.status)) {
-          console.warn(`[AI Service] Model ${model} unavailable (HTTP ${res.status}). Trying next...`);
+        // 402 = Payment Required. If a user has 0 credits, paid fallback models will return 402. Skip them!
+        if ([429, 404, 400, 502, 503, 402].includes(res.status)) {
+          const reason = res.status === 402 ? '(0 Credits for Paid Model)' : `(HTTP ${res.status})`;
+          console.warn(`[AI Service] Model ${model} unavailable ${reason}. Trying next...`);
           lastError = new Error(`OpenRouter ${res.status}: ${errText.slice(0, 150)}`);
           continue;
         }
-        // 401 = bad key, 402 = payment required → abort immediately
+        // 401 = bad key → abort immediately for auth errors
         throw new Error(`OpenRouter returned ${res.status}: ${errText.slice(0, 200)}`);
       }
 
@@ -163,9 +165,18 @@ Remember: reply with ONLY valid JSON matching the schema above. No markdown, no 
     }
   }
 
-  if (!rawText && lastError) {
-    console.error('[AI Service] All free models failed or timed out:', lastError.message);
-    throw lastError; // All models failed
+  // If literally every single model failed (all 429s or 402s)
+  if (!rawText) {
+    console.error('[AI Service] All models failed. Last error:', lastError?.message);
+    // Don't throw 500 Server Error to the frontend. Return a graceful safe fallback.
+    return formatResponse({
+      triage: "mild",
+      message: "I am experiencing heavy network traffic right now and couldn't process your request fully. However, if this is an emergency, please contact a doctor immediately.",
+      bullets: ["Please wait a minute and try asking again.", "You can also choose to dial 112 for urgent help."],
+      warnings: ["System overload — AI guidance currently unavailable."],
+      quick_replies: ["Try again"],
+      ui_flags: { show_emergency_banner: false, highlight: false }
+    });
   }
 
   // ── Strip markdown fences if model adds them ───────────────────────────────
