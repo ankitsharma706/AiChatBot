@@ -1,0 +1,20 @@
+{
+  "name": "afterma-ai-backend",
+  "version": "1.0.0",
+  "description": "Afterma AI Health Assistant Backend — Postpartum & Recovery Support for Indian Mothers",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
