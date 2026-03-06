@@ -27,36 +27,53 @@ const MODEL_CHAIN = [
     'arcee-ai/trinity-mini:free',
 ];
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 /**
  * Make one chat completion request to OpenRouter.
+ * Times out after 30 seconds so a hanging model doesn't block the chain.
  */
 async function callOpenRouter(model, userMessage) {
-    const res = await fetch(`${OPENROUTER_BASE}/chat/completions`, {
-        method: 'POST',
-        headers: {
-            'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
-            'Content-Type': 'application/json',
-            'HTTP-Referer': 'https://afterma.app',
-            'X-Title': 'Afterma AI Chatbot',
-        },
-        body: JSON.stringify({
-            model,
-            messages: [
-                { role: 'system', content: SYSTEM_PROMPT },
-                { role: 'user', content: userMessage },
-            ],
-            temperature: 0.3,
-            max_tokens: 1024,
-        }),
-    });
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 30_000);
 
-    const body = await res.json();
-    return { ok: res.ok, status: res.status, body };
+    try {
+        const res = await fetch(`${OPENROUTER_BASE}/chat/completions`, {
+            method: 'POST',
+            signal: controller.signal,
+            headers: {
+                'Authorization': `Bearer ${process.env.OPENROUTER_API_KEY}`,
+                'Content-Type': 'application/json',
+                'HTTP-Referer': 'https://afterma.app',
+                'X-Title': 'Afterma AI Chatbot',
+            },
+            body: JSON.stringify({
+                model,
+                messages: [
+                    { role: 'system', content: SYSTEM_PROMPT },
+                    { role: 'user', content: userMessage },
+                ],
+                temperature: 0.3,
+                max_tokens: 1024,
+            }),
+        });
+
+        const body = await res.json();
+        return { ok: res.ok, status: res.status, body };
+    } catch (err) {
+        if (err.name === 'AbortError') {
+            return { ok: false, status: 408, body: { error: { message: 'Timed out after 30s' } } };
+        }
+        throw err;
+    } finally {
+        clearTimeout(timer);
+    }
 }
 
 /**
- * Ask the AI — tries each model in MODEL_CHAIN until one succeeds.
- * Skips on 429 (rate limit), 404 (not found), 400 (provider error).
+ * Ask the AI — tries every model in MODEL_CHAIN until one succeeds.
+ * No overall timeout — takes as long as needed to get an answer.
+ * Skips a model on: 400, 401, 404, 408 (timeout), 429 (rate limit).
  *
  * @param {string} question
  * @param {string} context  — formatted text from local docs, or empty string
@@ -67,13 +84,13 @@ export async function askAI(question, context = '') {
         ? `Context from Afterma knowledge base:\n──────────────\n${context}\n──────────────\n\nQuestion: ${question}`
         : question;
 
-    // Deduplicate model list (in case .env values match defaults)
     const models = [...new Set(MODEL_CHAIN)];
-
     let lastError = '';
 
-    for (const model of models) {
-        console.log(`[AI] Trying model: ${model}`);
+    for (let i = 0; i < models.length; i++) {
+        const model = models[i];
+        console.log(`[AI] Trying model ${i + 1}/${models.length}: ${model}`);
+
         try {
             const { ok, status, body } = await callOpenRouter(model, userMessage);
 
@@ -85,24 +102,25 @@ export async function askAI(question, context = '') {
                 }
             }
 
-            // Retry-able: 429 rate limit, 400 provider error, 404 not found
-            const retryable = [400, 404, 429].includes(status);
-            if (!retryable) {
+            const skippable = [400, 401, 404, 408, 429].includes(status);
+            if (!skippable) {
                 throw new Error(`OpenRouter ${status}: ${JSON.stringify(body?.error?.message || body)}`);
             }
 
-            lastError = `${model} → ${status}: ${body?.error?.metadata?.raw || body?.error?.message || status}`;
+            lastError = `${model} → HTTP ${status}: ${body?.error?.metadata?.raw || body?.error?.message || status}`;
             console.warn(`[AI] Skip (${status}): ${model}`);
 
         } catch (err) {
-            if (!err.message.startsWith('OpenRouter')) {
-                // Network error — don't try more models
-                throw err;
+            if (err.name !== 'Error' || !err.message.startsWith('OpenRouter')) {
+                throw err; // Network-level error, stop
             }
             lastError = err.message;
             console.warn(`[AI] Skip (error): ${model} — ${err.message}`);
         }
+
+        // Brief pause before next model to avoid cascading rate limits
+        if (i < models.length - 1) await sleep(1000);
     }
 
-    throw new Error(`All models failed. Last error: ${lastError}`);
+    throw new Error(`All models failed. Last: ${lastError}`);
 }

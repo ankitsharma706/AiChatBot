@@ -14,6 +14,7 @@ const DOC_DIRS = [
     { path: join(__dirname, 'knowledgebase'), source_type: 'knowledge' },
     { path: join(__dirname, 'research'), source_type: 'research' },
     { path: join(__dirname, 'gov-schemes'), source_type: 'scheme' },
+    { path: join(__dirname, '../docs'), source_type: 'dataset' },
 ];
 
 // Singleton store

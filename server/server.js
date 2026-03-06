@@ -8,6 +8,9 @@ import { askAI } from './ai.js';
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+// No request timeout — let slow model chains fully complete
+app.use((_req, res, next) => { res.setTimeout(0); next(); });
+
 // ─── CORS ─────────────────────────────────────────────────────────────────────
 const allowedOrigins = (process.env.ALLOWED_ORIGINS || '')
     .split(',').map((o) => o.trim()).filter(Boolean);
@@ -59,7 +62,7 @@ function detectSourceType(question) {
 }
 
 // ─── POST /api/ai ─────────────────────────────────────────────────────────────
-app.post('/api/ai', async (req, res) => {
+const aiHandler = async (req, res) => {
     const { question } = req.body;
 
     if (!question || typeof question !== 'string' || !question.trim()) {
@@ -128,7 +131,10 @@ app.post('/api/ai', async (req, res) => {
             error: 'Could not process your request. Please try again in a moment.',
         });
     }
-});
+};
+
+app.post('/api/ai', aiHandler);
+app.post('/ai', aiHandler);
 
 // ─── 404 ──────────────────────────────────────────────────────────────────────
 app.use((_req, res) => res.status(404).json({ error: 'Route not found' }));
@@ -139,8 +145,8 @@ app.listen(PORT, async () => {
     console.log('║   🌸  Afterma AI Backend  v3.0  —  OpenRouter + Local Docs  ║');
     console.log('╚══════════════════════════════════════════════════════════════╝\n');
     console.log(`🚀  Server     → http://localhost:${PORT}`);
-    console.log(`💬  AI API     → POST http://localhost:${PORT}/api/ai`);
-    console.log(`❤️   Health     → GET  http://localhost:${PORT}/health`);
+    console.log(`💬  AI API     → POST /api/ai  OR  POST /ai`);
+    console.log(`❤️   Health     → GET  /health`);
     console.log(`🤖  Model      → ${process.env.OPENROUTER_MODEL || 'google/gemma-3-27b-it:free'}`);
     console.log('\n─────────────────────────────────────────────────────────────────\n');
 
