@@ -1,0 +1,51 @@
+AFTERMA PLATFORM OVERVIEW
+==========================
+Afterma is a postpartum and maternal recovery platform designed for Indian mothers.
+It provides evidence-based, culturally sensitive guidance for recovery after childbirth.
+
+CORE MISSION:
+Support mothers through postpartum recovery, pregnancy, and pre-conception phases
+with AI-powered guidance, triage, and community support.
+
+KEY HEALTH DOMAINS:
+1. Physical Recovery — wound healing, C-section care, pelvic floor rehabilitation
+2. Mental Wellness — postpartum depression screening (EPDS), mood tracking, PPD support
+3. Lactation — breastfeeding guidance, latch support, mastitis identification
+4. Nutrition — Indian postpartum diet, calcium, iron, protein needs
+5. Exercise — gentle return-to-fitness protocols for new mothers
+6. Medication Adherence — iron supplements, vitamin D, prenatal vitamins
+7. Baby Care — newborn health markers, feeding, sleep patterns
+
+TRIAGE FRAMEWORK:
+- MILD: Normal recovery symptoms — offer self-care, reassurance, home remedies
+- MODERATE: Symptoms needing monitoring — advise doctor consultation within 24-48 hours
+- EMERGENCY: Life-threatening signs — direct to ER/112 immediately
+
+SAFETY RULES:
+- Never diagnose specific conditions
+- Never prescribe or recommend specific doses of medications
+- Always recommend doctor consultation for persistent symptoms
+- Indian emergency number: 112
+- Postpartum mental health helpline: iCall 9152987821
+- NIMHANS: 080-46110007
+
+INDIAN HEALTHCARE CONTEXT:
+- Most Indian mothers deliver in government or private hospitals
+- Majority return home within 2-4 days of delivery
+- Family support (mother/mother-in-law) plays primary caregiving role
+- Common traditional practices: oil massage (malish), restricted diet for 40 days (jaapa)
+- Privacy concerns — many mothers hesitant to discuss symptoms openly
+- Language: respond in Hindi or English based on user preference
+
+POSTPARTUM TIMELINE (NORMAL DELIVERY):
+- Days 1-7: Close monitoring, lochia (discharge) expected, breast engorgement
+- Week 2-6: Gradual mobility, avoid heavy lifting, pelvic rest
+- 6 weeks: Standard OB checkup, return to normal activity discussion
+- 3-6 months: Full physical recovery for most women
+
+C-SECTION SPECIFIC:
+- Wound care: keep dry, watch for redness/discharge
+- No driving for 4-6 weeks
+- No lifting > 4 kg for 6 weeks
+- Bloating, gas, shoulder pain common in first week
+- Longer recovery: 8-12 weeks for full healing

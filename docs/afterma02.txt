@@ -1,0 +1,151 @@
+AFTERMA AI
+Postpartum & Maternal Recovery
+HINGLISH KNOWLEDGE BASE
+Source: afterma-overview.txt + afterma-safety-rules.txt | Version 1.0
+
+SECTION 1: AFTERMA PLATFORM KYA HAI?
+Afterma ek postpartum aur maternal recovery platform hai jo Indian mothers ke liye design kiya gaya hai. Ye platform evidence-based aur culturally sensitive guidance deta hai — childbirth ke baad recovery mein madad karne ke liye.
+
+Core Mission (Mukhya Uddeshya):
+Afterma ka main kaam hai ki Indian mothers ko postpartum recovery, pregnancy, aur pre-conception phases mein AI-powered guidance, triage, aur community support mile. Har maa ko sahi samay par sahi information milni chahiye — chahe woh ghar pe ho ya hospital mein.
+
+SECTION 2: AFTERMA KE 7 MUKHYA HEALTH DOMAINS
+Afterma in 7 important health areas mein guidance deta hai:
+
+1. Physical Recovery (Shareerik Swasthya)
+Delivery ke baad shareerik theek hona — isme wound healing, C-section (operation delivery) care, aur pelvic floor rehabilitation shamil hai. Normal delivery ke baad 3-6 mahine aur C-section ke baad 8-12 hafte mein poora recovery hota hai.
+2. Mental Wellness (Mansik Swasthya)
+Delivery ke baad aksar maa ko emotional problems ho sakti hain. Afterma postpartum depression (PPD) screening EPDS ke zariye karta hai, mood tracking provide karta hai, aur PPD support deta hai. Agar 2 hafte se zyada udaasi rahe — yeh serious hai.
+3. Lactation (Breastfeeding / Stanpan)
+Naye bacche ko doodh pilana ek important topic hai. Afterma breastfeeding guidance, latch support (bacche ka sahi tarike se lagna), aur mastitis (breast infection) identify karne mein help karta hai.
+4. Nutrition (Poshan / Khaan Paan)
+Indian postpartum diet ke according calcium, iron, aur protein ki zaroori matra ke baare mein guidance deta hai. Ghar ka khana jaise khichdi, daliya, methi ke ladoo, aur doodh maa ki recovery mein bahut help karta hai.
+5. Exercise (Vyayam)
+New mothers ke liye gentle return-to-fitness protocols provide karta hai. Delivery ke baad turant heavy exercise nahi karni chahiye — dheere dheere start karna chahiye doctor ke guidance mein.
+6. Medication Adherence (Dawai Lena)
+Iron supplements, Vitamin D, aur prenatal vitamins yaad se lene chahiye. Kabhi bhi apne mann se medicine band nahi karni chahiye. Doctor ke prescription ke hisaab se hi chalna chahiye.
+7. Baby Care (Bacche ki Dekhbhaal)
+Newborn ke health markers, feeding patterns, aur sleep patterns ke baare mein guidance milti hai. Agar baccha achhe se doodh nahi pi raha ya wajan bahut kam ho raha hai — doctor se milna zaroori hai.
+
+SECTION 3: TRIAGE FRAMEWORK — SYMPTOMS KO KAISE SAMJHEIN?
+Afterma har symptom ko 3 levels mein classify karta hai. Ye samajhna bahut zaroori hai ki kab ghar pe theek ho sakta hai aur kab doctor ke paas jana chahiye.
+
+TRIAGE LEVEL	SYMPTOMS	ACTION
+🟢 MILD (Halka)	Thakaan, halka dard, normal discharge, baby blues pehle 2 hafte, breast mein thodi tightness, baal girna	Ghar pe rest karo, paani piyo, ghar ke nuskhe apnao
+🟡 MODERATE (Dhyan do)	Bukhar 37.5-38.5°C, wound laal hona, breast sakht aur dardnak hona, mood changes 2 hafte se zyada	24-48 ghante mein doctor se milna zaroori hai
+🔴 EMERGENCY (Turant hospital)	Bahut zyada bleeding, chest pain, saas lene mein problem, seizures, tez bukhar + kaanpna + confusion	TURANT 112 call karo — ek minute bhi mat ruko
+
+
+SECTION 4: EMERGENCY SYMPTOMS — IN PAR TURANT DHYAN DO
+Ye sab symptoms EMERGENCY hain. Agar koi bhi neeche diya symptom ho — turant 112 pe call karo ya najdeeki hospital jao:
+
+    • Bahut zyada vaginal bleeding — ek ghante mein 1 se zyada pad bheeg jaaye ya achanak bahut zyada khoon aaye
+    • Chest mein dard — kisi bhi tarah ka postpartum chest pain turant emergency hai
+    • Saas nahi aa rahi — rest mein bhi breathing mein takleef ho
+    • Seizures ya behosh ho jaana — bilkul normal nahi hai
+    • Bahut tez sardard aur aankhon mein problem — preeclampsia ka sign ho sakta hai
+    • Tez bukhar + kaanpna + confusion — sepsis (blood infection) ka sign, bahut khatarnak
+    • Khud ko hurt karne ya bacche ko hurt karne ke khayal aana — turant madad lo
+    • C-section wound khul jaaye aur usme se buri badboo wala discharge aaye
+
+🚨 EMERGENCY HELPLINES — YAAD RAKHO:
+Indian Emergency Number: 112 Postpartum Mental Health Helpline — iCall: 9152987821 NIMHANS: 080-46110007
+
+
+SECTION 5: MODERATE SYMPTOMS — 24-48 GHANTE MEIN DOCTOR SE MILEIN
+Ye symptoms immediately emergency nahi hain, lekin 24 se 48 ghante ke andar doctor se milna zaroor chahiye:
+
+    • Bukhar 37.5°C se 38.5°C ke beech jo 24 ghante se zyada rahe
+    • Wound (tika) laal ho jaaye ya dard zyada ho jaaye — lekin khula na ho
+    • Breast sakht, laal aur bahut dardnak ho jaaye — mastitis ho sakta hai, antibiotics ki zaroorat pad sakti hai
+    • Mood mein lagaataar badlaav 2 hafte se zyada rahe — PPD ho sakta hai
+    • Baccha theek se doodh nahi pi raha ya uska wajan bahut kam ho raha ho
+    • Pair mein dard aur sujan — DVT (blood clot) ka concern ho sakta hai
+    • Urine control nahi ho raha ya bahut urgency 6 hafte ke baad bhi ho
+
+
+SECTION 6: MILD SYMPTOMS — GHAR PE MANAGE HO SAKTA HAI
+Ye symptoms normal hain aur ghar pe rest karke theek ho sakte hain. Lekin agar ye zyada badh jaayein toh doctor se milein:
+
+    • Halki thakaan aur normal soreness (dard) — bilkul normal hai
+    • Baby blues — pehle 2 hafte mein halka rona aur mood swings normal hai
+    • Breast mein thodi tightness (engorgement) — Day 3 se 5 mein hoti hai
+    • Afterpains ya cramps — pehle hafte mein hote hain, uterus ki normal process
+    • Stretch marks aur skin mein badlaav — normal hai
+    • Baal girna (hair loss) — yeh telogen effluvium hai, 3-6 mahine mein peak hota hai, ghabraana mat
+    • Halki constipation — zyada paani piyo aur fiber wala khana khao
+    • Normal lochia (discharge after delivery) — dheere dheere kam hoti hai, normal hai
+
+
+SECTION 7: POSTPARTUM RECOVERY TIMELINE
+
+Normal Delivery Recovery Timeline:
+    • Pehle 7 Din: Lochia (discharge after delivery) normal hai. Breast engorgement ho sakta hai. Close monitoring zaroori hai.
+    • Week 2 se 6: Dheere dheere chalphir badhao. Heavy lifting bilkul nahi. Pelvic rest rakho.
+    • 6 Hafte: Standard OB checkup karwao. Doctor se normal activities ke baare mein baat karo.
+    • 3 se 6 Mahine: Zyada tar mahilaon ka poora physical recovery ho jaata hai.
+
+C-Section (Operation Delivery) Recovery Timeline:
+    • Wound care: Wound ko dry rakhna zaroori hai. Laalipan ya discharge dikhne par doctor ko batao.
+    • Gaadi nahi chalani: 4 se 6 hafte tak gaadi bilkul mat chalao.
+    • Weight lifting nahi: 4 kg se zyada kuch nahi uthao 6 hafte tak.
+    • Pehle hafte: Bloating, gas, aur shoulder pain normal ho sakta hai.
+    • Poora recovery: 8 se 12 hafte mein puri tarah theek hota hai — normal delivery se zyada samay lagta hai.
+
+
+SECTION 8: INDIAN HEALTHCARE CONTEXT
+Afterma specially Indian families aur unke healthcare context ko dhyan mein rakh ke banaya gaya hai:
+
+    • Zyada tar Indian mothers government ya private hospitals mein delivery karti hain aur 2 se 4 din mein ghar aa jaati hain.
+    • Ghar mein maa ya saas primary caregiver hoti hain — unka role bahut important hai.
+    • Traditional practices jaise malish (oil massage) aur jaapa (40 din ka restricted diet) ko Afterma respect karta hai.
+    • Bahut si mahilayein apne symptoms khulke nahi bataati — privacy concern hoti hai. Afterma yeh samajhta hai.
+    • Afterma Hindi aur English dono mein respond kar sakta hai — user ki choice ke hisaab se.
+
+🪔 Traditional Indian Practices ke Baare Mein Afterma Ka Nazar:
+Malish (oil massage), jaapa (40 din ka parhej), aur gond ke ladoo jaise traditional nuskhon ko Afterma dismiss nahi karta. Ye practices hamare culture ka hissa hain aur aksar helpful bhi hoti hain. Lekin agar koi practice nuqsaandeh ho, tab Afterma gently warn karta hai.
+
+
+SECTION 9: SYMPTOM EXAMPLES — KIS MEIN KYA KAREIN?
+Neeche kuch common situations hain aur unka sahi triage:
+
+Example 1: 'Mujhe bukhar hai'
+Triage: MODERATE — Pehle temperature check karo. Agar 37.5°C se zyada aur 24 ghante se zyada ho toh doctor se milna zaroori hai.
+Example 2: 'Bahut tez bukhar hai, kaanp rahi hoon, bahut kamzor lagta hai'
+Triage: EMERGENCY — Yeh sepsis ka sign ho sakta hai. Turant 112 call karo ya hospital jao.
+Example 3: 'Mere tike mein dard hai'
+Triage: MODERATE — Infection ke signs dekho. Wound redness ya pus? Doctor se milna chahiye 24-48 ghante mein.
+Example 4: 'Tika khul gaya aur pili badboo aa rahi hai'
+Triage: EMERGENCY — Yeh serious wound infection hai. Turant hospital jao.
+Example 5: 'Teesre din se thoda rona aa raha hai'
+Triage: MILD — Baby blues normal hai pehle 2 hafte mein. Thoda rest karo, ghar walon se madad lo. 2 hafte ke baad bhi rahe toh doctor se milein.
+Example 6: 'Hafte 6 ho gaye, bed se uth nahi paa rahi, khaana nahi khaa rahi, bacche se laga nahi lag raha'
+Triage: MODERATE se EMERGENCY — Yeh postpartum depression (PPD) ke serious signs hain. Turant doctor se milein ya iCall: 9152987821 pe call karo.
+Example 7: 'Delivery ke baad baal bahut gir rahe hain'
+Triage: MILD — Yeh telogen effluvium hai — bilkul normal hai. 3-6 mahine mein peak hota hai aur phir khud theek hota hai.
+Example 8: 'C-section ke baad chawal kha sakti hoon?'
+Triage: MILD — Dietary guidance question hai. C-section ke baad soft khana theak hai. Chawal kha sakte hain, lekin pehle 24 ghante sirf liquids lo.
+
+
+SECTION 10: AFTERMA AI KE ABSOLUTE SAFETY RULES
+Ye rules kabhi nahi todenge — ye Afterma AI ke core safety principles hain:
+
+⛔ YE KABHI NAHI KAREIN (ABSOLUTE RULES):
+Rule 1: Koi bhi specific bimari diagnose nahi karein Rule 2: Koi bhi specific medicine ya dose prescribe nahi karein Rule 3: Kabhi yeh mat kahein ki doctor ki zaroorat nahi hai — khaaskar bleeding, bukhar, dard, sujan, discharge, ya breathing problem mein Rule 4: Moderate aur emergency cases mein hamesha doctor referral dein Rule 5: Emergency cases mein hamesha emergency helplines batayen
+
+
+SECTION 11: CULTURAL SENSITIVITY — AFTERMA KA ANDAAZ
+Afterma ek knowledgeable badi behen ya doctor dost ki tarah baat karta hai — warmth ke saath, judge kiye bina. Kuch important baatein:
+
+    • Traditional practices ko respect karo — malish, jaapa, gond ke ladoo ko dismiss mat karo jab tak harmful na ho.
+    • Indian mothers ke familiar terms use karo: lochia ko 'discharge after delivery' kaho, episiotomy ko 'stitch', C-section ko 'operation delivery' kaho.
+    • Privacy ko samjho — bahut si mahilayein embarrass hoti hain symptoms batane mein. Sensitive raho.
+    • Pehle feelings validate karo, phir guidance do. Example: 'Aap jo feel kar rahi hain woh bahut common hai, main samajh sakti hoon. Yeh dekhte hain...'
+    • Agar user Hinglish mein likhein toh Hinglish mein jawab do, agar English mein likhein toh English mein.
+
+
+DISCLAIMER / SAVDHANI
+⚠️ ZAROORI SAVDHANI:
+Afterma AI sirf general guidance deta hai. Ye koi medical advice, diagnosis, ya prescription nahi hai. Kisi bhi symptom ke liye apne doctor ya healthcare provider se zaroor milein. Emergency mein turant 112 call karein.  Afterma AI only provides general guidance. This is NOT medical advice, diagnosis, or prescription. Always consult your doctor for any symptoms. In emergency, call 112 immediately.
+
+Document prepared by: Afterma AI Team | Version 1.0 | Sources: afterma-overview.txt + afterma-safety-rules.txt

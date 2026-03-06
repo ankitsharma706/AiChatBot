@@ -1,0 +1,129 @@
+[
+    {
+        "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+        "ministry": "Ministry of Women and Child Development, Government of India",
+        "description": "A maternity benefit programme providing financial assistance to pregnant women and lactating mothers for their first live birth. The scheme compensates for wage loss so women can rest before and after delivery.",
+        "benefits": [
+            "Cash incentive of ₹5,000 paid in three instalments",
+            "First instalment: ₹1,000 on early registration of pregnancy",
+            "Second instalment: ₹2,000 after 6 months of pregnancy and at least one antenatal check-up",
+            "Third instalment: ₹2,000 after child birth registration and first cycle of vaccination"
+        ],
+        "eligibility": [
+            "All pregnant women and lactating mothers for first live birth",
+            "Age 19 years or above",
+            "Pregnancy on or after January 1, 2017",
+            "Women who are not central/state government employees"
+        ],
+        "how_to_apply": [
+            "Visit the nearest Anganwadi Centre (AWC) or Health Centre",
+            "Fill Form 1-A for the first instalment",
+            "Submit Aadhaar card, bank account details, and MCP card",
+            "Track application at: https://pmmvy.wcd.gov.in"
+        ],
+        "helpline": "1800-111-555 (toll-free)",
+        "official_website": "https://pmmvy.wcd.gov.in"
+    },
+    {
+        "scheme_name": "Janani Suraksha Yojana (JSY)",
+        "ministry": "Ministry of Health and Family Welfare, Government of India",
+        "description": "A safe motherhood intervention to reduce maternal and neonatal mortality by promoting institutional delivery among poor pregnant women. JSY is a 100% centrally sponsored scheme.",
+        "benefits": [
+            "Cash assistance to pregnant women for delivering in government health institutions",
+            "Rural areas — Low Performing States: ₹1,400 per delivery",
+            "Urban areas — Low Performing States: ₹1,000 per delivery",
+            "Rural areas — High Performing States: ₹700 per delivery",
+            "Urban areas — High Performing States: ₹600 per delivery",
+            "ASHA incentive: ₹600 in rural and ₹200 in urban areas (Low Performing States)"
+        ],
+        "eligibility": [
+            "All pregnant women giving birth in government health facilities",
+            "BPL (Below Poverty Line) families prioritized",
+            "Applies for all deliveries regardless of number of children"
+        ],
+        "how_to_apply": [
+            "Register with the nearest ASHA/ANM worker or PHC",
+            "Carry BPL card, Aadhaar card, and MCP card",
+            "Deliver in a government hospital or accredited private institution",
+            "Cash is paid post-delivery directly to bank account or via ASHA"
+        ],
+        "helpline": "1800-180-1104",
+        "official_website": "https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841&lid=309"
+    },
+    {
+        "scheme_name": "Janani Shishu Suraksha Karyakram (JSSK)",
+        "ministry": "Ministry of Health and Family Welfare, Government of India",
+        "description": "An initiative to provide completely free services to pregnant women and newborns in government health facilities, eliminating out-of-pocket expenses.",
+        "benefits": [
+            "Free and zero expense delivery in government health facilities",
+            "Free caesarean section surgery",
+            "Free drugs and consumables",
+            "Free diagnostics (blood tests, ultrasound)",
+            "Free blood transfusion",
+            "Free diet during hospital stay (up to 3 days for normal delivery, 7 days for C-section)",
+            "Free transport from home to facility and back",
+            "Exempted from user charges",
+            "Free treatment for sick newborns up to 30 days"
+        ],
+        "eligibility": [
+            "All pregnant women going for delivery in government facilities",
+            "All sick newborns up to 30 days of age accessing public sector facilities"
+        ],
+        "how_to_apply": [
+            "Simply visit any government health facility for delivery",
+            "Present Aadhaar or any government ID if available",
+            "No BPL certificate or formal application required"
+        ],
+        "helpline": "104 (Health Helpline)",
+        "official_website": "https://nhm.gov.in"
+    },
+    {
+        "scheme_name": "Mission Shakti (Sambal and Samarthya)",
+        "ministry": "Ministry of Women and Child Development, Government of India",
+        "description": "Umbrella scheme for women empowerment including safety, security, and support for women and girls. Sambal sub-scheme covers One Stop Centre, Nari Adalat, and legal support. Samarthya covers nutrition and reproductive health.",
+        "benefits": [
+            "Poshan Abhiyaan — nutrition support during pregnancy and lactation",
+            "Iron and folic acid supplements",
+            "Counseling on maternal and child nutrition",
+            "One Stop Centre (OSC) support for women in distress",
+            "Skill development and self-help group support"
+        ],
+        "eligibility": [
+            "All women and girls, prioritizing vulnerable groups",
+            "Pregnant and lactating mothers",
+            "Women facing domestic violence or distress"
+        ],
+        "how_to_apply": [
+            "Contact the nearest Anganwadi Centre or CDPOs",
+            "Call 181 (Women Helpline) for emergency support",
+            "Visit https://wcd.nic.in for more details"
+        ],
+        "helpline": "181 (Women Helpline — 24x7, toll-free)",
+        "official_website": "https://wcd.nic.in/mission-shakti"
+    },
+    {
+        "scheme_name": "Poshan Abhiyaan (National Nutrition Mission)",
+        "ministry": "Ministry of Women and Child Development, Government of India",
+        "description": "India's flagship programme to reduce malnutrition among children and pregnant/lactating women. Focuses on first 1000 days of life.",
+        "benefits": [
+            "Supplementary nutrition through Anganwadi Centers",
+            "Iron, folic acid, Vitamin A, and zinc supplementation",
+            "Nutritional counseling for pregnant and lactating mothers",
+            "Real-time monitoring of nutritional status",
+            "Take-Home Ration (THR) for pregnant and lactating women"
+        ],
+        "eligibility": [
+            "Pregnant women",
+            "Lactating mothers up to 6 months post-delivery",
+            "Children aged 0–6 years",
+            "Adolescent girls (in select states)"
+        ],
+        "how_to_apply": [
+            "Register at the nearest Anganwadi Centre with your pregnancy details",
+            "Aadhaar card required for registration",
+            "Supplements and rations given directly at AWC"
+        ],
+        "helpline": "1800-180-1104",
+        "official_website": "https://poshanabhiyaan.gov.in"
+    }
+]

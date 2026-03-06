@@ -1,0 +1,952 @@
+🌸 AFTERMA AI
+POSTPARTUM & MATERNAL RECOVERY
+HINGLISH KNOWLEDGE BASE
+Complete Reference Guide for AI Bot — Version 2.0 (100+ Pages)
+Sources: afterma-overview.txt + afterma-safety-rules.txt
+
+IS DOCUMENT MEIN KYA HAI:
+
+SECTION 1  —  Platform Overview & Core Mission
+SECTION 2  —  7 Key Health Domains
+SECTION 3  —  Triage Framework (Mild / Moderate / Emergency)
+SECTION 4  —  Emergency Symptoms — Red Flags
+SECTION 5  —  Moderate Symptoms — Monitor & Consult
+SECTION 6  —  Mild Symptoms — Self Care at Home
+SECTION 7  —  Postpartum Recovery Timeline
+SECTION 8  —  Indian Healthcare Context & Cultural Sensitivity
+SECTION 9  —  NUTRITION Q&A — Khaan Paan Guide
+SECTION 10  —  BREASTFEEDING Q&A — Stanpan Guide
+SECTION 11  —  BABY CARE Q&A — Bacche ki Dekhbhaal
+SECTION 12  —  MEDICATION & SUPPLEMENTS Q&A
+SECTION 13  —  C-SECTION (Operation Delivery) Recovery Q&A
+SECTION 14  —  MENTAL HEALTH & PPD Q&A
+SECTION 15  —  EXERCISE & PELVIC FLOOR Q&A
+SECTION 16  —  WOUND CARE & STITCHES Q&A
+SECTION 17  —  SLEEP & FATIGUE Q&A
+SECTION 18  —  TRADITIONAL PRACTICES — Malish, Jaapa, Gond Ladoo
+SECTION 19  —  CAREGIVER GUIDE — Family Support
+SECTION 20  —  EMERGENCY TRIAGE DECISION GUIDE
+SECTION 21  —  BOT RESPONSE TEMPLATES — Hinglish
+SECTION 22  —  SYMPTOM KEYWORD INDEX
+SECTION 23  —  HELPLINES & RESOURCES
+SECTION 24  —  ABSOLUTE SAFETY RULES & DISCLAIMER
+
+SECTION 1  |  PLATFORM OVERVIEW & CORE MISSION
+
+Afterma Kya Hai?
+Afterma ek postpartum aur maternal recovery platform hai jo specifically Indian mothers ke liye design kiya gaya hai. Ye platform evidence-based (research pe aadharit) aur culturally sensitive guidance deta hai — delivery ke baad recovery mein madad karne ke liye. Ghar pe rehne wali maa ho ya hospital se abhi aayi ho — Afterma AI humesha saath hai.
+
+Core Mission (Mukhya Uddeshya)
+Afterma ka main kaam hai ki Indian mothers ko in teen important phases mein AI-powered guidance, triage, aur community support mile:
+    • Postpartum Recovery — delivery ke baad theek hone ka safar
+    • Pregnancy — garbhavastha ke dauran care aur guidance
+    • Pre-Conception — pregnancy se pehle ki taiyaari
+
+Afterma Ka Andaaz — Response Tone
+Afterma ek knowledgeable badi behen ya doctor dost ki tarah baat karta hai. Warm, non-judgmental, aur caring. Kisi ko judge nahi karta. Pehle feelings validate karta hai, phir guidance deta hai.
+
+💬 EXAMPLE TONE:
+
+"Aap jo feel kar rahi hain woh bahut common hai aur main samajh sakti hoon ki yeh worrying lagta hai."
+"Ghabraiye mat — yeh normal recovery ka hissa hai. Lekin in cheezein ka dhyan zaroor rakhein..."
+"Bahut achha kiya jo aapne bataya. Yeh symptoms serious ho sakte hain — please doctor se milein."
+
+Privacy aur Language
+Bahut si Indian mothers apne symptoms khulke share karne mein hesitate karti hain. Afterma yeh samajhta hai aur ek safe, judgment-free space deta hai. Language mein flexibility hai — agar user Hinglish mein likhein toh Hinglish mein jawab milega, English mein likhein toh English mein.
+
+SECTION 2  |  7 KEY HEALTH DOMAINS
+
+Afterma Kin 7 Areas Mein Help Karta Hai?
+Afterma in saat important health areas mein comprehensive guidance deta hai. Har domain mein specific Q&A, triage guidance, aur Indian context shamil hai:
+
+HEALTH DOMAIN	KYA COVER HOTA HAI
+1. Physical Recovery	Wound healing, C-section care, pelvic floor rehabilitation. Delivery ke baad shareerik theek hone ki poori journey.
+2. Mental Wellness	Postpartum depression (PPD) screening using EPDS scale, mood tracking, emotional support, aur PPD treatment guidance.
+3. Lactation	Breastfeeding guidance, sahi latch (bacche ka doodh pine ka tarika), mastitis (breast infection) identify karna, doodh badhane ke tips.
+4. Nutrition	Indian postpartum diet — calcium, iron, protein ki zaroori matra. Kya khayein, kya nahi khayein, traditional foods ka sahi use.
+5. Exercise	New mothers ke liye gentle return-to-fitness. Pelvic floor exercises, light yoga, dheere dheere activity badhana — doctor guidance se.
+6. Medication Adherence	Iron supplements, Vitamin D, prenatal vitamins yaad dilana. Safe medication guidance during breastfeeding.
+7. Baby Care	Newborn ke health markers, feeding patterns, sleep patterns, normal vs abnormal signs identify karna.
+
+SECTION 3  |  TRIAGE FRAMEWORK — SYMPTOMS KO KAISE CLASSIFY KAREIN?
+
+Afterma har symptom ko 3 levels mein classify karta hai. Yeh classification bahut zaroori hai — isse pata chalta hai ki maa ko ghar pe rest karna chahiye, doctor ke paas jaana chahiye, ya turant emergency care leni chahiye.
+
+TRIAGE LEVEL	SYMPTOMS	ACTION
+🟢 MILD	Normal soreness, thakaan, baby blues 2 hafte tak, normal discharge, mild breast engorgement	Ghar pe rest. Self-care tips follow karo. Monitor karo.
+🟡 MODERATE	Bukhar 37.5-38.5°C, wound redness, breast infection signs, mood changes 2+ weeks, DVT concern	24-48 ghante mein doctor se milna ZAROORI hai.
+🔴 EMERGENCY	Heavy bleeding, chest pain, breathing problem, seizures, high fever+chills, wound opening	TURANT 112 call karo. Ek minute bhi mat ruko.
+
+Triage Decision — Quick Reference
+Koi bhi symptom ho — pehle yeh 3 sawaal khud se poochho:
+    1. Kya yeh symptom sudden aur bahut intense hai? — Agar haan, EMERGENCY ho sakta hai.
+    2. Kya yeh symptom 24 ghante se zyada chal raha hai? — Agar haan, MODERATE consider karo.
+    3. Kya yeh symptom mild hai aur dheere dheere theek ho raha hai? — Toh MILD hai.
+
+SECTION 4  |  EMERGENCY SYMPTOMS — IN PAR TURANT DHYAN DO
+
+YE SAB EMERGENCY HAIN. Koi bhi neeche diya symptom ho — turant 112 call karo ya nearest hospital jao. Koi bhi explanation ya wait mat karo.
+
+🚨 EMERGENCY RED FLAGS — YAAD RAKHO:
+
+1. Bahut zyada vaginal bleeding — 1 ghante mein 1 se zyada pad bheeg jaaye ya achanak bahut zyada khoon aaye
+2. Chest mein dard — kisi bhi tarah ka postpartum chest pain emergency hai
+3. Saas lene mein takleef — rest mein bhi breathing mein problem ho
+4. Seizures (fits) ya behosh ho jaana — bilkul normal nahi hai
+5. Bahut tez sardard + aankhon mein problem (dhundhla dikhna) — preeclampsia ka sign
+6. Tez bukhar + kaanpna + confusion — sepsis (blood infection) — bahut khatarnak
+7. Khud ko hurt karne ya bacche ko hurt karne ke khayal — turant madad lo
+8. C-section wound khul jaaye + buri badboo wala discharge — serious infection
+
+Emergency Situations — Detailed Explanation
+
+1. Heavy Bleeding (Bahut Zyada Khoon Aana)
+Postpartum mein thoda discharge (lochia) normal hai — lekin agar 1 ghante mein 2 ya zyada pads bheeg jayein, ya achanak bahut bada blood clot aaye — yeh emergency hai. Uterus theek se contract nahi kar raha ho sakta hai ya koi internal problem ho sakti hai.
+    • Immediately lait jaao aur legs upar karo
+    • Kisi ek family member ko turant batao
+    • 112 call karo — ambulance mangao
+
+2. Chest Pain (Seene Mein Dard)
+Delivery ke baad chest pain kabhi bhi normal nahi hota. Yeh pulmonary embolism (lung mein blood clot), heart problem, ya kisi aur serious condition ka sign ho sakta hai. Ek second bhi mat socho — 112 call karo.
+
+3. Sepsis ke Signs (Blood Infection)
+Tez bukhar (38.5°C se zyada) ke saath kaanpna, bahut kamzori, confusion, aur piss zyada ya kam hona — ye sab sepsis ke signs hain. Ye delivery ke baad infection se hota hai aur bahut tezi se serious ho jaata hai. Turant emergency mein jaao.
+
+4. Preeclampsia Risk
+Delivery ke baad bhi preeclampsia ho sakta hai — ise postpartum preeclampsia kehte hain. Bahut tez sardard, aankhon mein chamak ya dhundhla dikhna, aur face/haath mein sujan — yeh signs hain. Immediate doctor consultation zaroori hai.
+
+5. Postpartum Mental Health Emergency
+Agar maa ko khud ko ya bacche ko hurt karne ke khayal aa rahe hain — yeh psychiatric emergency hai. Akele mat chodo. Turant iCall 9152987821 ya NIMHANS 080-46110007 pe call karo ya nearest hospital jao.
+
+🚨 EMERGENCY HELPLINES:
+
+Indian Emergency (Ambulance/Police/Fire): 112
+Postpartum Mental Health — iCall: 9152987821
+NIMHANS Mental Health Helpline: 080-46110007
+Women Helpline: 1091
+National Health Helpline: 104
+
+SECTION 5  |  MODERATE SYMPTOMS — 24-48 GHANTE MEIN DOCTOR SE MILEIN
+
+Ye symptoms immediately life-threatening nahi hain — lekin 24 se 48 ghante ke andar doctor se milna ZAROORI hai. Ignore mat karo.
+
+SYMPTOM	KYA KAREIN
+Bukhar 37.5–38.5°C	24 ghante se zyada rahe — doctor se milein. Paani piyo, temperature monitor karo. 38.5°C se zyada ho jaaye — EMERGENCY.
+Wound (Tike) mein redness/dard	Wound laal ho, zyada dard ho, ya halki sujan ho — doctor dikhao. Lekin wound khul jaaye — EMERGENCY.
+Mastitis (Breast Infection)	Breast sakht, laal, aur bahut dardnak ho — yeh mastitis hai. Antibiotics ki zaroorat pad sakti hai. Doctor se milna zaroori hai.
+Mood Changes 2+ Weeks	Baby blues 2 hafte se zyada chale, roz rona, khana nahi khaana, bacche se laga nahi lagana — PPD screening zaroori hai.
+Baby ka Weight Loss	Baccha achhe se doodh nahi pi raha ya wajan bahut kam ho raha ho — pediatrician se milein.
+Calf Pain / Leg Swelling	Pair mein ek taraf dard aur sujan — DVT (deep vein thrombosis) ka concern. Doctor se milein.
+Urinary Issues 6+ Weeks	Peshab control nahi ho raha ya bahut urgency ho 6 hafte ke baad bhi — doctor se discuss karo.
+Stitches mein dard	Tike mein zyada dard ho — infection ke signs dekho. Doctor se check karwao.
+
+Moderate Symptoms — Detailed Q&A
+
+Q: Mujhe 2 din se bukhar hai — kya karoon?
+
+A: Pehle temperature check karo. Agar 37.5°C se 38.5°C ke beech hai aur 24 ghante se zyada hai — 24-48 ghante mein doctor se milna zaroori hai. Paani zyada piyo, rest karo. Agar 38.5°C se zyada ho jaaye ya kaanpna shuru ho — TURANT hospital jao.
+
+[Triage: MODERATE]
+
+Q: Mera tika laal ho gaya hai — kya yeh normal hai?
+
+A: Thodi si redness normal ho sakti hai pehle kuch dino mein. Lekin agar laalipan badh rahi hai, zyada dard ho, ya pus aa raha hai — doctor se milna zaroori hai. Wound khul jaaye ya buri badboo aaye — TURANT hospital jao.
+
+[Triage: MODERATE]
+
+Q: Mera breast bahut sakht aur dardnak hai — kya karoon?
+
+A: Yeh mastitis ke signs ho sakte hain — breast mein infection. Feeding continue rakho agar ho sake, warm compress lagao, aur 24 ghante mein doctor se milein. Antibiotics ki zaroorat ho sakti hai. Doctor ke bina antibiotic mat lo.
+
+[Triage: MODERATE]
+
+SECTION 6  |  MILD SYMPTOMS — GHAR PE MANAGE HO SAKTA HAI
+
+Ye symptoms normal recovery ka hissa hain. Ghar pe rest, achha khana, aur family support se theek ho jaate hain. Lekin agar ye zyada badh jayein ya 2 hafte se zyada chalein — toh doctor se milein.
+
+MILD SYMPTOM	GUIDANCE
+Thakaan / Kamzori	Normal hai — body ne bahut mehnat ki hai. Rest karo, ghar ke kaam family ko dedo, achha khao.
+Baby Blues (2 Hafte Tak)	Thoda rona, mood swings, emotional feel karna — normal hai. Ghar walon ka support lo. 2 hafte se zyada ho toh doctor se milein.
+Breast Engorgement (Day 3-5)	Doodh aane par breast tight aur bhari bhari lagti hai — normal hai. Warm compress aur regular feeding se theek hoti hai.
+Afterpains / Cramps	Pehle hafte mein uterus apne original size mein aata hai — isse mild cramps hote hain. Normal hai.
+Stretch Marks / Skin Changes	Skin mein badlaav normal hain — dheere dheere theek hote hain. Moisturizer use kar sakte ho.
+Baal Girna (3-6 Mahine)	Telogen effluvium — hormones ki wajah se baal girte hain. Bilkul normal hai, khud theek hota hai.
+Mild Constipation	Zyada paani piyo, fiber wala khana khao (sabzi, dal, fruits). Doctor se poocho before laxative.
+Normal Lochia (Discharge)	Discharge after delivery normal hai — dheere dheere kam hoti hai. Sanitary pad use karo, tampon nahi.
+
+Mild Symptoms — Q&A
+
+Q: Delivery ke baad bahut baal gir rahe hain — kya yeh normal hai?
+
+A: Haan, bilkul normal hai! Ise telogen effluvium kehte hain. Pregnancy mein hormones ki wajah se baal zyada thick hote hain, aur delivery ke baad woh girna shuru hote hain — usually 3 se 6 mahine mein peak hota hai. Phir khud theek ho jaata hai. Ghabrana mat, zyada protein khao aur gentle hair care karo.
+
+[Triage: MILD]
+
+Q: Delivery ke baad 3 din se roz rona aa raha hai — PPD hai kya?
+
+A: Nahi, pehle 2 hafte mein yeh 'baby blues' ho sakta hai — bilkul normal hai. Hormones mein achanak badlaav hota hai, thakaan hoti hai, naya responsibility hota hai — yeh emotional ho jaana swabhavik hai. Ghar walon ka support lo, rest karo, khud pe zyada pressure mat do. Agar 2 hafte ke baad bhi theek na ho — tab doctor se zaroor milein.
+
+[Triage: MILD]
+
+Q: Mera pait pehle hafte mein dard kar raha hai — kya yeh normal hai?
+
+A: Haan! Ye afterpains ya postpartum cramps hain. Uterus apne original size mein wapas aata hai — isme mild to moderate cramps hote hain, khaskar breastfeeding ke time zyada feel hote hain. Normal hai. Agar dard bahut zyada ho ya fever ke saath ho — toh doctor se milein.
+
+[Triage: MILD]
+
+SECTION 7  |  POSTPARTUM RECOVERY TIMELINE
+
+Normal Delivery Recovery Timeline
+TIMELINE	KYA EXPECT KAREIN
+Pehle 7 Din	Lochia (discharge) normal hai — red se pink se yellow/white hoti jaati hai. Breast engorgement Day 3-5 pe. Close monitoring zaroori. Rest karo.
+Week 2 Se 6	Dheere dheere mobility badhao. Heavy lifting bilkul nahi. Pelvic rest rakho. Emotional ups aur downs normal hain.
+6 Hafte	Standard OB checkup. Doctor se normal activities, exercise, sex ke baare mein baat karo. Contraception discuss karo.
+3 Se 6 Mahine	Zyada tar mahilaon ka poora physical recovery. Baal girna peak aur phir theek hoga. Energy dhire dhire wapas aati hai.
+
+C-Section (Operation Delivery) Recovery Timeline
+C-SECTION TIMELINE	KYA EXPECT KAREIN
+Hospital (3-5 Din)	Wound care shuru. Dard management. IV antibiotics. Dheere dheere movement shuru karein.
+Ghar — Week 1-2	Rest mandatory. Wound dry rakho. 4 kg se zyada mat uthao. Driving bilkul nahi. Gas aur bloating normal.
+Week 3-6	Wound dheere dheere theek hoga. Halki activity shuru kar sakte ho. Wound redness ya dard zyada ho toh doctor ko batao.
+8-12 Hafte	Poora healing. Normal activity resume ho sakti hai doctor ke permission se. Scar visible rahega — normal hai.
+
+SECTION 8  |  INDIAN HEALTHCARE CONTEXT & CULTURAL SENSITIVITY
+
+Indian Family aur Healthcare Context
+    • Zyada tar Indian mothers government ya private hospitals mein deliver karti hain aur 2-4 din mein ghar aa jaati hain.
+    • Ghar mein maa ya saas primary caregiver hoti hai — unka role bahut important hai.
+    • Privacy concern bahut common hai — bahut si mahilayein apne symptoms khulke nahi bolti.
+    • Budget constraints hain — costly treatments ya medicines always accessible nahi hoti.
+    • Rural areas mein healthcare access limited ho sakta hai — Afterma yeh dhyan mein rakhta hai.
+
+Traditional Indian Practices — Afterma Ka Nazar
+TRADITIONAL PRACTICE	AFTERMA GUIDANCE
+Malish (Oil Massage)	Shishu ki malish aur maa ki body massage — traditional practice hai, bahut beneficial bhi. Warm oil massage blood circulation improve karta hai. Encourage karo — harmful nahi hai.
+Jaapa (40 Din Parhej)	40 din tak restricted diet aur rest — traditional recovery period. Iska concept sahi hai — rest zaroor karo. Diet restrictions jo harmful hain use doctor se clarify karo.
+Gond ke Ladoo	Protein, fiber, aur minerals se bharpur — postpartum recovery ke liye bahut achhe hain. Encourage karo.
+Ajwain ka Paani	Gas aur bloating mein help karta hai — safe traditional remedy. Okay hai.
+Haldi Doodh	Anti-inflammatory properties — safe aur beneficial. Encourage karo.
+Methi ke Ladoo	Iron aur milk-boosting properties — postpartum nutrition ke liye beneficial.
+Sarson ka Tel Malish	Warm mustard oil massage — skin aur circulation ke liye beneficial. Traditional practice ko respect karo.
+Paan Aur Supari	Supari (betel nut) breastfeeding mein avoid karni chahiye. Gently warn karo.
+
+📝 LANGUAGE GUIDE — INDIAN MOTHERS KE LIYE FAMILIAR TERMS:
+
+Lochia → 'Discharge after delivery' ya 'prasav ke baad discharge'
+Episiotomy → 'Stitch' ya 'tika'
+C-Section → 'Operation delivery' ya 'cesarean'
+Mastitis → 'Breast infection' ya 'stan mein infection'
+Postpartum Depression → 'Delivery ke baad ka depression' ya 'PPD'
+Pelvic Floor → 'Pelvic muscles' ya 'neeche ki muscles'
+Lochia Rubra → 'Lal discharge' (Day 1-4)
+Lochia Serosa → 'Pink discharge' (Day 4-10)
+Lochia Alba → 'White/yellow discharge' (Week 2-6)
+
+SECTION 9  |  NUTRITION Q&A — KHAAN PAAN GUIDE (POSHAN)
+
+Delivery ke baad sahi khana recovery ke liye bahut zaroori hai. Ye Q&A section aapke bot ke liye complete nutrition guidance deta hai — Indian foods ke reference ke saath.
+
+Normal Delivery ke Baad Nutrition
+
+Q: Delivery ke baad kya khana chahiye?
+
+A: Delivery ke baad iron, protein, aur calcium se bharpur khana khao. Dal, palak, methi, doodh, dahi, paneer, eggs (agar khate ho), dry fruits bahut achhe hain. Ghar ki khichdi, daliya, moong dal soup body ko andar se theek karta hai. Har meal mein kuch na kuch protein zaroor ho.
+
+[Triage: MILD]
+
+Q: C-section ke baad kya khana chahiye — pehle 24 ghante?
+
+A: C-section ke baad pehle 24 ghante sirf clear liquids lo — pani, coconut water (naariyal pani), clear dal ka paani. Baad mein dheere dheere soft khana shuru karo jaise daliya, khichdi, dahi. Gas wala khana jaise rajma, chhole, gobhi, maida se bani cheezein 1-2 hafte tak avoid karo.
+
+[Triage: MILD]
+
+Q: Breastfeeding ke dauran kya khana chahiye?
+
+A: Breastfeeding mein zyada calories ki zaroorat hoti hai — approx 500 extra calories daily. Doodh badhane ke liye methi (fenugreek), saunf, doodh, daliya, oats bahut helpful hain. Zyada paani piyo — kam se kam 10-12 glass daily. Onion, garlic moderate matra mein theek hai.
+
+[Triage: MILD]
+
+Q: Delivery ke baad kya nahi khana chahiye?
+
+A: Bahut zyada teekha ya masaledar khana avoid karo — yeh digestive system pe stress dalta hai. Cold drinks, junk food, maida se bani cheezein, bahut zyada caffeine avoid karo. Ye constipation badha sakte hain aur wound healing slow kar sakte hain.
+
+[Triage: MILD]
+
+Q: Iron tablets ke saath kya khayen?
+
+A: Iron tablets khane ke saath lo — khali pet mat lo varna nausea hogi. Saath mein nimbu paani (Vitamin C) piyo — isse iron achhe se absorb hota hai. Chai, coffee, ya calcium wali cheezein (doodh, dahi) iron tablet se 1-2 ghante door rakhein — ye absorption kharaab karte hain.
+
+[Triage: MILD]
+
+Indian Postpartum Superfoods — Complete Guide
+FOOD	NUTRIENTS	BENEFIT
+Gond ke Ladoo	Protein, fiber, iron, calcium	Energy boost karta hai, wound healing mein help karta hai. Traditional postpartum superfood.
+Methi ke Ladoo	Iron, doodh production boost	Breastfeeding maa ke liye bahut beneficial. Iron ki kami door karta hai.
+Daliya (Porridge)	Fiber, iron, protein, complex carbs	Easy to digest. C-section ke baad bhi safe hai. Doodh ke saath banao.
+Haldi Doodh	Curcumin — anti-inflammatory	Wound healing accelerate karta hai. Roz raat ko piyo.
+Moong Dal Khichdi	Protein, easily digestible carbs	Light on stomach, achha nutrition deta hai. Delivery ke baad perfect meal.
+Ajwain ka Paani	Gas relief, digestive	C-section ke baad bloating mein help karta hai. Warm water mein ajwain ubaal ke piyo.
+Drumstick (Sahjan)	Iron, calcium, Vitamin C	Sabse zyada iron wali sabzi — soup mein daalo ya curry mein.
+Palak	Iron, folate, Vitamin K	Iron ki kami door karta hai. Dal ke saath ya sabzi mein khao.
+Doodh + Dahi	Calcium, protein, probiotics	Bones aur breastfeeding ke liye zaroori. Roz lena chahiye.
+Dry Fruits	Iron, zinc, healthy fats, energy	Almonds, walnuts, dates — daily handful lena beneficial hai.
+Coconut Water	Electrolytes, hydration	Dehydration rokta hai. Postpartum recovery mein bahut helpful.
+Eggs	Complete protein, Vitamin D, B12	Agar non-veg khate ho — roz 1-2 eggs bahut beneficial hain.
+
+Kya Khana Avoid Karein?
+AVOID KARO	KYU
+Bahut Zyada Teekha Masala	Digestive irritation, breastfeeding mein baby ko discomfort ho sakta hai.
+Raw Papaya (Kaccha Papita)	Traditionally avoided — uterine contractions ka risk.
+Alcohol	Breastmilk mein jaata hai — bilkul avoid karo during breastfeeding.
+Caffeine (Chai/Coffee Zyada)	Thoda theek hai — lekin zyada nahi. 1-2 cups max.
+Gas Wali Cheezein	Rajma, chhole, gobhi, broccoli — C-section ke baad especially avoid karo.
+Junk Food / Maida	Empty calories — wound healing aur recovery ko slow karta hai.
+Cold Drinks / Soda	Gas aur bloating badhaate hain — avoid karo recovery mein.
+Supari (Betel Nut)	Breastfeeding mein avoid karni chahiye — baby ke liye harmful.
+
+Hydration — Paani aur Liquid Guide
+Recovery mein hydration bahut zaroori hai — khaskar agar breastfeeding kar rahi ho. In liquids ko daily routine mein shamil karo:
+    • Saade paani — 10-12 glass daily minimum
+    • Coconut water (naariyal paani) — electrolytes ke liye
+    • Dal ka paani — protein aur minerals
+    • Ajwain ka warm paani — gas ke liye
+    • Haldi doodh — anti-inflammatory
+    • Saunf ki chai — digestion aur doodh ke liye
+    • Bone broth (non-veg) — collagen aur healing ke liye
+
+SECTION 10  |  BREASTFEEDING Q&A — STANPAN GUIDE
+
+Breastfeeding Indian mothers ke liye ek bahut important topic hai. Yahan common sawaal aur unke Afterma-approved Hinglish jawab hain:
+
+Q: Delivery ke baad doodh kab aata hai?
+
+A: Delivery ke turant baad pehla doodh — colostrum (kheera) aata hai. Yeh paheela aur thick hota hai — bahut nutritious hai, bacche ke liye 'liquid gold' hai. Regular milk (poora doodh) usually Day 3-5 pe aata hai. Tab breast mein tightness aur bhaaripan feel hogi — normal hai.
+
+[Triage: MILD]
+
+Q: Doodh badhane ke liye kya karein?
+
+A: Doodh badhane ke liye ye karein: bacche ko frequently feed karo (har 2-3 ghante), methi ka paani piyo, daliya khao, oats khao, saunf ki chai piyo. Zyada paani piyo. Stress kam karo — stress doodh production kharaab karta hai. Rest bhi bahut zaroori hai.
+
+[Triage: MILD]
+
+Q: Breastfeeding mein nipple mein bahut dard hota hai — normal hai kya?
+
+A: Pehle kuch din mein thoda discomfort normal ho sakta hai — baccha naya naya seekh raha hai. Lekin bahut tez dard, cracks, ya bleeding normal nahi hai — yeh latch problem ka sign hai. Bacche ka mooh poora nipple aur areola pe hona chahiye — sirf nipple pe nahi. Lactation consultant ya doctor se help lo.
+
+[Triage: MODERATE]
+
+Q: Mera breast bahut sakht aur laal hai — mastitis hai kya?
+
+A: Mastitis ke signs hain: breast ek jagah se sakht, laal, bahut dardnak, aur garam feel hona — aksar fever ke saath. Yeh breast infection hai. Doctor se 24 ghante mein milna zaroori hai — antibiotics ki zaroorat ho sakti hai. Breastfeeding band mat karo — continue karna actually help karta hai.
+
+[Triage: MODERATE]
+
+Q: Kya C-section ke baad breastfeeding ho sakti hai?
+
+A: Haan bilkul! C-section ke baad bhi breastfeeding perfectly ho sakti hai. Shayad pehle 1-2 din mein thodi mushkil ho — position find karni padti hai jo wound pe pressure na daale. Side-lying position ya football hold comfortable hota hai. Doodh uthna thoda late ho sakta hai — patience rakho.
+
+[Triage: MILD]
+
+Q: Baccha zyada doodh pi raha hai — kya mera doodh kam ho raha hai?
+
+A: Nahi — jitna baccha peeyega, utna zyada doodh banta hai (supply and demand). Bacche ka baar baar maangna aur cluster feeding (thode thode time mein zyada baar peena) normal hai — khaskar growth spurts mein. Formula supplement shuru karne se pehle lactation expert se baat karo.
+
+[Triage: MILD]
+
+Q: Breastfeeding band karne ka sahi tarika kya hai?
+
+A: Breastfeeding achanak band mat karo — engorgement aur mastitis ka risk hota hai. Dheere dheere ek ek feed kam karo — ek hafte mein ek feed hatao. Cabbage leaves breast pe rakhne se discomfort mein madad milti hai. Doctor se guidance lo proper weaning ke liye.
+
+[Triage: MILD]
+
+Breastfeeding Positions — Indian Context
+POSITION	KAB HELPFUL HAI
+Cradle Hold	Sabse common position — bacche ko godi mein rakho, sir apni kuhni pe. Normal delivery ke baad comfortable.
+Football Hold	Bacche ko side mein pakdo jaise football — C-section wound pe pressure nahi padta. C-section ke baad bahut helpful.
+Side-Lying Position	Dono saath let jaao — raat mein feeding ke liye bahut helpful. C-section ke baad bhi comfortable.
+Laid-Back Position	Maa slightly reclined — gravity se baccha khud latch karta hai. Engorgement mein helpful.
+
+Breastfeeding Common Problems aur Solutions
+PROBLEM	SOLUTION
+Doodh Zyada — Engorgement	Warm compress, frequent feeding, gentle massage. Cabbage leaves for relief.
+Doodh Kam Lagta Hai	Pani zyada piyo, stress kam karo, zyada frequent feeding, methi/oats lo.
+Cracked Nipples	Latch fix karo — sabse important. Breastmilk lagao wound pe — natural healer.
+Mastitis	Doctor se milein — antibiotics zaroor. Breastfeeding band mat karo.
+Blocked Duct	Warm compress, massage, affected side se pehle feed karo.
+Flat / Inverted Nipples	Lactation consultant se help lo. Shield use karo — doctor se poocho.
+Baby Refusing Breast	Patience rakho — nipple confusion ya teething ho sakta hai. Lactation expert se milein.
+
+SECTION 11  |  BABY CARE Q&A — NAYE BACCHE KI DEKHBHAAL
+
+Naya baccha ghar aaya hai — ghabrana swabhavik hai! Ye Q&A section common newborn concerns ke Afterma-approved jawab deta hai.
+
+Q: Baccha kitna sona chahiye?
+
+A: Newborn baby 16-18 ghante roz sota hai — thodi thodi nind mein. Ye bilkul normal hai. Pehle 3 mahine mein bacche ki apni sleep cycle hoti hai — raat aur din ka fark nahi hota. Dheere dheere 3-4 mahine mein cycle set hogi. Maa ko bhi bacche ke saath soona chahiye — rest bahut zaroori hai.
+
+[Triage: MILD]
+
+Q: Baccha bahut rota hai — kya karna chahiye?
+
+A: Naye bacche rone ki chaar main wajahaat hoti hain: bhookh, diaper change, neend, ya gas/discomfort. Pehle feeding try karo, phir diaper check karo, phir gently swaddle karo aur halkay se hila ke neend dilao. Agar baccha bahut zyada rota hai aur kisi cheez se shant nahi hota — doctor se milein (colic check ke liye).
+
+[Triage: MILD]
+
+Q: Bacche ka umbilical cord (naabi) kab girta hai?
+
+A: Naabi ka thoothra 7 se 21 din mein khud gir jaata hai. Tab tak ise dry rakho — paani mat lagao. Agar laal ho, smell aaye, ya pus aaye — doctor ko turant batao. Ye normal process hai — kheeche mat.
+
+[Triage: MILD]
+
+Q: Bacche ki skin yellow ho rahi hai — kya yeh jaundice hai?
+
+A: Naye bacchon mein mild jaundice (peelia) hona normal hai — ise physiological jaundice kehte hain. Aksar Day 2-5 mein aata hai aur Week 2 tak theek ho jaata hai. Sunlight (subah ki dhoop) help karta hai. Lekin agar bahut zyada peela ho, baccha kamzor lage, ya zyada soye — turant doctor dikhao. Bilirubin test karwao.
+
+[Triage: MODERATE]
+
+Q: Bacche ka pehla potty kab hoga?
+
+A: Bacche ka pehla potty — meconium — kala aur thick hota hai, pehle 24-48 ghante mein. Ye normal hai. Baad mein agar breastfed hai toh yellow-mustard colored aur loose potty normal hai. Formula-fed bacchon mein thoda pale yellow ya tan color ka. Agar 24 ghante mein koi potty nahi — doctor ko batao.
+
+[Triage: MILD]
+
+Q: Bacche ka diaper rash ho gaya — kya karein?
+
+A: Diaper area saaf aur dry rakho. Har diaper change pe gentle warm water se clean karo, achhe se dry karo, aur diaper rash cream lagao (zinc oxide based). Kuch ghante diaper-free time do roz. Agar rash bahut zyada ho, blisters hon, ya 3 din mein theek na ho — doctor se milein.
+
+[Triage: MILD]
+
+Q: Bacche ko kitni baar feeding karni chahiye?
+
+A: Newborn ko har 2-3 ghante pe feed karna chahiye — yaani 24 ghante mein 8-12 baar. Demand feeding karo — jab bhi baccha signs dikhaye (mooh chalaana, haath mooh mein lena, roona). Raat ko bhi jagana padega pehle kuch haftein. Agar baccha bahut zyada sota hai aur khud nahi jaagta — 3-4 ghante mein jagao feeding ke liye.
+
+[Triage: MILD]
+
+Newborn Health Markers — Normal vs Abnormal
+MARKER	NORMAL	CONCERN
+Weight	Birth weight 2.5kg se zyada	Pehle 2 hafte mein 10% tak weight loss normal — phir dheere dheere badhega.
+Temperature	36.5°C se 37.5°C normal	100°F (37.8°C) se zyada — turant doctor. Newborn mein fever serious hai.
+Breathing	40-60 breaths per minute	Zyada fast breathing, naak phadkana, skin blue — EMERGENCY.
+Feeding	8-12 baar daily	3-4 ghante se zyada gap — doctor ko batao.
+Wet Diapers	Day 1: 1-2, Day 6+: 6-8	Kam wet diapers — baccha theek se nahi pi raha — doctor se milein.
+Potty	Pehle 24 ghante mein kala	24 ghante mein potty nahi — doctor ko batao.
+Crying	Normal hai — hungry, wet, gas	Bahut zyada crying, weak cry, ya high-pitched cry — doctor.
+Eyes	Clear, bright eyes	Yellow eyes (jaundice), discharge, ya cross-eyed look — doctor.
+
+Baby Massage (Malish) — Guide
+Indian tradition mein baby ki malish bahut important hai. Sahi tarike se ki gayi malish bacche ke liye bahut beneficial hoti hai:
+    • Warm mustard oil, coconut oil, ya baby oil use karo — doctor se poocho kaunsa best hai
+    • Room warm hona chahiye — AC ya direct fan se door
+    • Gentle strokes use karo — pressure mat do
+    • Naabi ka thoothra girne ke baad malish shuru karo — pehle nahi
+    • Roz ek niyat waqt pe karo — bacche ko routine pasand aata hai
+    • Feeding ke turant baad malish mat karo — 30 min wait karo
+
+SECTION 12  |  MEDICATION & SUPPLEMENTS Q&A — DAWAI AUR SUPPLEMENTS
+
+IMPORTANT: Afterma AI koi bhi specific medication dose prescribe nahi karta. Ye section general guidance ke liye hai — hamesha apne doctor ke prescription ke hisaab se hi chalna chahiye.
+
+⚠️ MEDICATION SAFETY RULE:
+
+Kabhi bhi apne mann se medicine band mat karo.
+Kabhi bhi doctor ki permission ke bina naya medicine shuru mat karo.
+Breastfeeding ke dauran koi bhi medicine lene se pehle doctor ko batao ki aap feed kara rahi hain.
+Dose tab pe likhi hoti hai — wahi follow karo.
+
+Q: Delivery ke baad kaunse supplements lene chahiye?
+
+A: Doctor aksar ye supplements dete hain: Iron tablets (anemia ke liye), Calcium supplements (bones aur breastfeeding ke liye), Vitamin D (calcium absorption aur immunity ke liye), aur prenatal/postnatal multivitamins. Ye sab doctor ke prescription ke hisaab se lo — khud se dose mat change karo.
+
+[Triage: MILD]
+
+Q: Iron tablet kab lein aur kaise?
+
+A: Iron tablet khane ke baad lo — khali pet lene se ulti ya nausea ho sakti hai. Saath mein nimbu paani (Vitamin C) piyo — iron better absorb hota hai. Chai, coffee, doodh se 1-2 ghante door rakho. Iron se potty kaali ya dark green ho sakti hai — normal hai, ghabrana mat.
+
+[Triage: MILD]
+
+Q: Calcium kab lein?
+
+A: Calcium ko iron se alag time pe lo — dono saath lene se dono absorb nahi hote. Vitamin D ke saath lo — isse calcium better absorb hota hai. Doctor ke bataye schedule ke hisaab se lo.
+
+[Triage: MILD]
+
+Q: Breastfeeding mein painkiller le sakti hoon?
+
+A: Sabse pehle doctor se poocho. Generally paracetamol (acetaminophen) breastfeeding mein safe maana jaata hai — lekin dose doctor se confirm karo. Aspirin breastfeeding mein generally avoid karna chahiye. Ibuprofen ke baare mein bhi doctor se poocho. Kabhi bhi pharmacy se khud painkiller mat lo bina poocha.
+
+[Triage: MODERATE]
+
+Q: Antibiotic course poora karna zaroori hai kya?
+
+A: Haan — bilkul zaroori hai. Agar symptoms theek lagein aur beech mein antibiotic band kar do — infection wapas aa sakta hai aur baar medicine resistant ho jaati hai. Doctor ne jo number of days bataya hai — poora course complete karo. Breastfeeding ke baare mein doctor ko zaroor batao.
+
+[Triage: MILD]
+
+Q: Kya postpartum mein contraception lena chahiye?
+
+A: Haan — doctor se zaroor baat karo. Delivery ke 3-4 hafte ke baad ovulation wapas shuru ho sakta hai — iska matlab pregnancy ho sakti hai. Breastfeeding contraception guarantee nahi hai. Safe contraception ke options doctor se discuss karo — 6-hafte ke checkup pe yeh topic zaroor uthaao.
+
+[Triage: MODERATE]
+
+Common Medicines — Safe During Breastfeeding (General Reference)
+NOTE: Ye sirf general reference hai. HAMESHA apne doctor se confirm karo apki specific situation ke hisaab se.
+MEDICINE TYPE	BREASTFEEDING SAFETY NOTE
+Paracetamol	Generally safe during breastfeeding — doctor recommended dose mein.
+Iron Supplements	Safe and recommended. Dark stools normal side effect.
+Calcium + Vitamin D	Safe and recommended for postpartum mothers.
+Prenatal Vitamins	Continue karo breastfeeding ke dauran bhi.
+Most Antibiotics	Doctor se confirm karo — most are safe but specific ones to avoid.
+Antifungals (topical)	Generally safe — doctor se confirm karo.
+Aspirin	Generally AVOID during breastfeeding — doctor se poocho.
+Strong Painkillers	Doctor ke bina mat lo — breastmilk mein ja sakte hain.
+
+SECTION 13  |  C-SECTION (OPERATION DELIVERY) Q&A — RECOVERY GUIDE
+
+C-section ek major surgery hai. Recovery normal delivery se zyada time leta hai — 8 se 12 hafte. Is section mein C-section recovery ke baare mein complete guidance hai.
+
+Q: C-section ke baad wound care kaise karein?
+
+A: Wound ko dry aur saaf rakho. Har roz gently clean paani se saaf karo — soap seedha wound pe mat lagao. Wound ko achhe se dry karo. Tight kapde mat pehno jo wound pe pressure daalen. Wound pe kuch bhi apply karne se pehle doctor se poocho. Infection ke signs dekho: laalipan, sujan, pus, ya buri badboo.
+
+[Triage: MILD]
+
+Q: C-section ke baad kitne din mein ghar ke kaam shuru kar sakti hoon?
+
+A: Pehle 2 hafte mein sirf rest karo — walking thodi thodi theek hai. 4 kg se zyada kuch nahi uthao 6 hafte tak. Jhadu, pocha, kapde dhona — 4-6 hafte avoid karo. Seedhi zamin pe nahi bethna chahiye — kursi ya bed pe. Family members se help lo.
+
+[Triage: MILD]
+
+Q: C-section ke baad gaadi kab chala sakti hoon?
+
+A: C-section ke baad kam se kam 4-6 hafte tak gaadi bilkul mat chalao. Suddenly brake lagana pad sakta hai — wound pe bahut pressure padega. Doctor ke permission ke baad hi gaadi chalaana shuru karo.
+
+[Triage: MILD]
+
+Q: C-section ke baad gas aur bloating kyun hoti hai?
+
+A: C-section mein anesthesia aur surgery ki wajah se intestines temporarily slow ho jaati hain — isse gas aur bloating hoti hai, jo pehle hafte mein common hai. Ajwain ka warm paani piyo. Dheere dheere chalte raho. Gas wali cheezein (rajma, chhole, soda) avoid karo. Yeh kuch dino mein theek ho jaata hai.
+
+[Triage: MILD]
+
+Q: C-section scar kab theek hoga?
+
+A: Upar ki skin 6-8 hafte mein heal ho jaati hai. Andar ki healing 8-12 hafte mein hoti hai. Scar visible rahega — yeh normal hai aur dheere dheere fade hoga. Scar pe koi cream lagane se pehle doctor se poocho. Sun exposure se scar dark ho sakta hai — dhoop mein cover karo.
+
+[Triage: MILD]
+
+Q: C-section ke baad exercise kab shuru karein?
+
+A: Doctor ke permission ke bina exercise mat shuru karo. Generally 6-8 hafte ke baad light walking se shuru kar sakte ho. Heavy exercise, sit-ups, aur crunches 3-6 mahine tak avoid karo — wound aur internal healing ke liye time chahiye. Pelvic floor exercises (kegel) doctor ke guidance mein pehle shuru ho sakti hain.
+
+[Triage: MILD]
+
+C-Section Wound Warning Signs
+🔴 IN SIGNS PAR TURANT DOCTOR KO BATAO / HOSPITAL JAO:
+
+Wound khul jaaye — koi bhi gap dikhe
+Wound se pus ya thick discharge aaye — khaskar buri badboo ke saath
+Wound ke aas paas zyada laalipan jo badh rahi ho
+Wound pe zyada sujan ya garam feel ho
+Bukhar 38°C se zyada wound ke symptoms ke saath
+Wound mein bahut zyada dard jo badh raha ho
+
+SECTION 14  |  MENTAL HEALTH & PPD Q&A — MANSIK SWASTHYA
+
+Postpartum mental health ek bahut important topic hai jo India mein aksar ignore hota hai. Afterma is topic ko seriously leta hai aur warm, non-judgmental guidance deta hai.
+
+Q: Baby blues aur PPD mein kya fark hai?
+
+A: Baby blues pehle 2 hafte mein hota hai — thoda rona, mood swings, emotional feel karna. Ye normal hai aur khud theek ho jaata hai. Postpartum Depression (PPD) zyada intense hota hai, 2 hafte se zyada rehta hai, aur rozana ki life affect karta hai. Dono ko seriously lo — baby blues bhi agar zyada ho toh doctor se baat karo.
+
+[Triage: MILD]
+
+Q: PPD ke signs kya hain?
+
+A: PPD ke signs: lagaataar udaasi jo 2 hafte se zyada rahe, bacche ya khud ki parwah na ho, khana-peena band ho jaaye, neend bilkul na aaye ya bahut zyada aaye, khud ko ya bacche ko hurt karne ke khayal aayein, zyada anxiety ya panic attacks, kisi se baat na karna chahein. Ye sab PPD ke signs hain — doctor se zaroor milein.
+
+[Triage: MODERATE]
+
+Q: Mujhe PPD hai kya? — Kaise pata chalega?
+
+A: Afterma diagnosis nahi karta — lekin EPDS (Edinburgh Postnatal Depression Scale) ek common screening tool hai jo doctors use karte hain. Agar aapko 2+ hafte se unke diye PPD symptoms feel ho rahe hain — please apne doctor ya gynecologist se milein aur EPDS test ke baare mein poochein. Akele mat suffer karo.
+
+[Triage: MODERATE]
+
+Q: PPD ka treatment kaise hota hai?
+
+A: PPD ka treatment hota hai aur ye theek ho sakta hai. Treatment mein counseling/therapy, support groups, aur kuch cases mein medication shamil ho sakti hai. Doctor treatment decide karte hain. Agar breastfeeding kar rahi ho toh doctor ko zaroor batao — safe options available hain.
+
+[Triage: MODERATE]
+
+Q: Mujhe bacche ko hurt karne ke khayal aa rahe hain — kya karoon?
+
+A: Ye bahut brave step hai ki aapne share kiya. Ye thoughts PPD ya postpartum psychosis ke sign ho sakte hain — ye ek medical condition hai, aapki galti nahi. Please ABHI iCall pe call karo: 9152987821, ya NIMHANS: 080-46110007, ya kisi trusted ghar wale ko batao. Akele mat raho. Help available hai.
+
+[Triage: EMERGENCY]
+
+Postpartum Anxiety — Bhi Important Hai
+Sirf depression nahi — bahut si new mothers ko postpartum anxiety bhi hoti hai. Ye bhi equally serious hai:
+    • Har waqt bacche ke baare mein zyada chinta rehna
+    • Raat ko neend nahi aana — sirf worried thoughts
+    • Bahut zyada overthink karna
+    • Heart racing, shortness of breath without physical reason
+    • Feeling ki kuch bura hone wala hai — hamesha
+
+Agar in mein se koi bhi 2+ hafte se ho — doctor se milein. Therapy aur support se bahut fark padta hai.
+
+💙 MENTAL HEALTH HELPLINES:
+
+iCall (Postpartum Mental Health): 9152987821
+NIMHANS Helpline: 080-46110007
+Vandrevala Foundation: 1860-2662-345 (24x7)
+iCall Email: icall@tiss.edu
+Emergency: 112
+
+SECTION 15  |  EXERCISE & PELVIC FLOOR Q&A — VYAYAM GUIDE
+
+Delivery ke baad exercise dheere dheere shuru karni chahiye — doctor ke guidance mein. Bahut jaldi heavy exercise karna harmful ho sakta hai.
+
+Q: Normal delivery ke baad exercise kab shuru karein?
+
+A: Doctor ke permission ke baad — generally 6-hafte checkup ke baad. Pehle sirf light walking shuru karo. Kegel exercises (pelvic floor) bahut pehle shuru ho sakte hain — even hospital mein — lekin doctor se confirm karo. Heavy exercise, running, HIIT — 3 mahine tak wait karo.
+
+[Triage: MILD]
+
+Q: Pelvic floor exercises kya hain aur kaise karein?
+
+A: Pelvic floor exercises (kegel) bahut important hain — delivery ke baad muscles weak ho jaati hain. Kaise karein: peshab rokne wali muscles ko 5-10 second ke liye squeeze karo, phir release karo. 10-15 baar karo — 3 sets daily. Dheere dheere time badhao. Isse urinary incontinence kam hoti hai aur recovery better hoti hai.
+
+[Triage: MILD]
+
+Q: Kya yoga delivery ke baad kar sakti hoon?
+
+A: Haan — lekin doctor ke permission ke baad aur specifically postpartum yoga. Core-intensive poses (jaise plank, boat pose), deep twists, aur inversion poses avoid karo pehle 3 mahine. Gentle breathing, cat-cow, child's pose, leg raises — ye safe hain. In-person postpartum yoga class better hai — qualified instructor guide karta hai.
+
+[Triage: MILD]
+
+TIMELINE	SAFE EXERCISE
+Week 1-6	Sirf light walking. Pelvic floor (kegel). Deep breathing. Avoid everything else.
+Week 6-12	Doctor permission ke baad: light yoga, swimming, walking distance badhao.
+Month 3-6	Gradual increase. Light strength training. No heavy lifting still.
+6+ Months	Return to regular exercise — but listen to your body. Stop if pain.
+
+Exercise Mein Warning Signs — Ruko aur Doctor Dekho
+    • Exercise ke dauran ya baad mein bleeding zyada ho jaaye
+    • Pelvic area mein pain feel ho
+    • Pressure ya heaviness feel ho neeche (pelvic organ prolapse sign)
+    • Leak ho peshab exercise mein (beyond mild) — doctor se milein
+    • Wound mein dard badh jaaye
+
+SECTION 16  |  WOUND CARE & STITCHES Q&A — TIKE KI DEKHBHAAL
+
+Q: Normal delivery ke baad stitches (tike) ki care kaise karein?
+
+A: Tike ko saaf aur dry rakho. Har bathroom use ke baad warm water se clean karo — front to back direction mein. Soap seedha mat lagao. Soft cotton underwear pehno. Tight kapde avoid karo. Salt water sitz bath (pelvic area ko warm paani mein bithana) relief deta hai. Sanitary pad regular change karo.
+
+[Triage: MILD]
+
+Q: Tike mein dard kab tak rahega?
+
+A: Normal delivery ke stitches mein 2-3 hafte tak discomfort normal hai. Dheere dheere kam hota jaata hai. Baith ke kaam karte waqt dard ho — donut cushion use kar sakte ho. Agar dard 3 hafte ke baad bhi zyada ho, ya badh raha ho — doctor se milein.
+
+[Triage: MILD]
+
+Q: Tike kab dissolve hote hain?
+
+A: Zyada tar stitches absorbable hote hain — khud 2-4 hafte mein dissolve ho jaate hain. Remove nahi karne padte. C-section ke stitches ya staples doctor remove karte hain usually Day 5-7 pe hospital mein. Agar koi stitch loose feel ho — doctor ko batao.
+
+[Triage: MILD]
+
+Q: Tike ke paas itching ho rahi hai — normal hai?
+
+A: Haan — itching healing ka sign ho sakta hai — wound theek ho raha hai. Lekin agar itching ke saath laalipan, sujan, discharge, ya smell ho — infection ka sign hai, doctor se milein. Khujli mat karo — infection spread ho sakta hai.
+
+[Triage: MILD]
+
+Wound Care Do's and Don'ts
+ACTION	DETAIL	WHY
+KARO	Warm water se clean karo daily	Front to back direction mein
+KARO	Saaf aur dry rakho	Cotton underwear pehno
+KARO	Sitz bath lo warm water mein	Salt optional — comfort ke liye
+MAT KARO	Directly soap mat lagao wound pe	Irritation badh sakti hai
+MAT KARO	Tight synthetic kapde mat pehno	Healing slow hoti hai
+MAT KARO	Khujli mat karo	Infection spread hota hai
+DOCTOR SE POOCHO	Koi bhi cream ya powder lagane se pehle	Self-medication avoid karo
+
+SECTION 17  |  SLEEP & FATIGUE Q&A — NEEND AUR THAKAAN
+
+Q: New maa ko itni thakaan kyun hoti hai?
+
+A: Delivery bahut physically demanding hoti hai — body ne 9 mahine mein bahut kuch kiya aur phir delivery ka effort. Blood loss, hormones mein badlaav, breastfeeding, aur har 2-3 ghante feeding — ye sab milake bahut thaka dete hain. Ye normal hai aur kuch hafte mein dheere dheere behtar hota hai.
+
+[Triage: MILD]
+
+Q: Neend kaise poori karein jab baccha baar baar jagata hai?
+
+A: Bacche ke saath soona seekho — yeh sabse important tip hai. Agar baccha so raha hai — aap bhi so jaao. Ghar ke kaam baad mein ho sakte hain. Raat ki duties partner ya ghar wale ke saath share karo — ek raat aap, ek raat woh. Visitors ko limit karo pehle kuch hafte.
+
+[Triage: MILD]
+
+Q: Bahut thakaan ke bawajood neend nahi aa rahi — kya karoon?
+
+A: Ye postpartum anxiety ka sign ho sakta hai. Bahut tired hona par neend na aana — racing thoughts, worry, ya anxiety se ho sakta hai. Agar yeh 2+ hafte se ho — doctor se milein. PPD aur anxiety ka yeh bhi ek symptom ho sakta hai.
+
+[Triage: MODERATE]
+
+Sleep Hygiene Tips for New Mothers
+    • Bacche ke saath nap lo — dishes, jhadu baad mein
+    • Visitors aur phone calls pehle kuch hafte limit karo
+    • Room dark aur comfortable rakho naps ke liye
+    • Partner ya ghar wale se raat ki ek feeding share karo
+    • Stimulants (chai, coffee) evening mein avoid karo
+    • Social media raat mein dekhna bandh karo — anxiety badhata hai
+
+SECTION 18  |  TRADITIONAL PRACTICES — MALISH, JAAPA, GHAR KE NUSKHE
+
+Indian tradition mein postpartum ke liye kai practices hain jo generations se chali aa rahi hain. Afterma inhe respect karta hai aur unka evidence-based perspective deta hai.
+
+Jaapa — 40 Din Ka Parhej
+Jaapa ek traditional 40-din ki postpartum recovery period hai jahan maa ko rest, special diet, aur malish di jaati hai. Scientific research bhi confirm karta hai ki pehle 40 din recovery ke liye bahut important hain.
+JAAPA PRACTICE	AFTERMA VIEW
+Rest	Bilkul sahi hai — rest recovery ke liye medically zaroori hai. Encourage karo.
+Ghar ka plain khana	Saatvik, ghar ka khana recovery mein help karta hai. Encourage karo.
+No Heavy Work	Heavy lifting, jhadu-pocha avoid karna — medically correct hai.
+Garam Khana/Paani	Warm liquids digestion mein help karte hain. Safe hai.
+Restricted Visitors	Rest ensure karta hai. Infections ka risk bhi kam hota hai.
+Cold Cheezein Avoid	Practical wisdom — cold digestion slow kar sakta hai.
+
+Malish — Oil Massage
+Baby aur maa ki malish Indian tradition ka important hissa hai. Research bhi massage ke benefits support karta hai:
+    • Blood circulation improve hoti hai
+    • Muscle soreness kam hoti hai
+    • Bonding (maa aur bacche mein) strengthen hoti hai
+    • Baby ka weight gain better hota hai regular malish se
+    • Stress kam hota hai
+
+OIL TYPE	GUIDANCE
+Warm Sarson ka Tel	Traditional choice — antimicrobial properties. OK hai mild babies ke liye.
+Coconut Oil	Light, absorbed easily, antimicrobial. Great for baby skin.
+Olive Oil	Rich, good for dry skin. Good choice.
+Baby Mineral Oil	Very gentle — good for sensitive skin.
+Fragrant Oils	Avoid on newborn — fragrance allergies ho sakti hain.
+Mustard Oil Baby ke Cheeks pe	Avoid near face — irritant ho sakta hai.
+
+Traditional Foods — Evidence-Based Review
+TRADITIONAL FOOD	AFTERMA GUIDANCE
+Gond Ladoo	RECOMMENDED — Protein, fiber, minerals. Excellent postpartum food.
+Methi ke Ladoo	RECOMMENDED — Iron, galactagogue (doodh badhata hai).
+Haldi Doodh	RECOMMENDED — Anti-inflammatory, wound healing.
+Ajwain Paani	RECOMMENDED — Gas relief, digestive. Safe.
+Saunf ki Chai	RECOMMENDED — Digestion, mild galactagogue.
+Kaali Mirch	MODERATE — Thodi matra mein theek, zyada breastfeeding mein avoid.
+Raw Papaya	AVOID during postpartum especially if breastfeeding.
+Alcohol-based Tonics	AVOID during breastfeeding.
+
+SECTION 19  |  CAREGIVER GUIDE — FAMILY KA ROLE
+
+Indian families mein ghar wale — maa, saas, husband, bhai-behen — recovery mein bahut important role nibhaate hain. Ye guide caregivers ke liye hai.
+
+Husband / Partner Ka Role
+    • Raat ki feeding mein help karo — bacche ko maa ke paas laao, diaper change karo
+    • Maa ke liye healthy khana ensure karo
+    • Ghar ke kaam — jhadu, kapde, bartan — sambhalo
+    • Visitors ko manage karo — maa ko rest karne do
+    • Maa ki baat suno — emotionally support karo, judge mat karo
+    • Doctor appointments mein saath jaao
+    • PPD ke signs dekhte raho — agar kuch lagey toh doctor se baat karo
+
+Maa / Saas Ka Role (Primary Caregiver)
+    • Postpartum maa ko traditional knowledge do — lekin modern medical advice ke against mat jao
+    • Maa ko rest karne do — ghar ka kaam tum sambhalo
+    • Healthy traditional khana banao — gond ladoo, khichdi, haldi doodh
+    • Breastfeeding mein help karo — position support, baby ko laao
+    • Nai maa ko emotionally support karo — uski baat suno
+    • Agar koi bhi warning sign dikhe — turant family ko batao aur doctor ko call karo
+
+Warning Signs Jo Caregivers Ko Dekhne Chahiye
+🚨 CAREGIVERS — IN SIGNS PAR TURANT DHYAN DO:
+
+Maa bahut zyada roh rahi ho ya bilkul chup ho gayi ho
+Maa khaana nahi kha rahi ya bacche ki parwah nahi kar rahi
+Maa bahut zyada bleeding ho rahi ho ya wound se discharge aa raha ho
+Maa ko tez bukhar ho
+Maa ne kisi cheez mein interest kho diya ho completely
+Maa ne khud ko ya bacche ko hurt karne ki baat ki ho
+Bacche ka weight nahi badh raha ya baccha bohot zyada ro raha ho
+
+SECTION 20  |  EMERGENCY TRIAGE DECISION GUIDE — QUICK REFERENCE
+
+Ye quick decision guide hai — jab koi symptom ho toh jaldi decide karne ke liye kya karna chahiye:
+
+SYMPTOM	DETAIL	ACTION
+Heavy Bleeding	1 ghante mein 1+ pads bheegein	🔴 EMERGENCY — 112
+Chest Pain	Koi bhi postpartum chest pain	🔴 EMERGENCY — 112
+Breathing Problem	Rest mein bhi takleef	🔴 EMERGENCY — 112
+Seizures / Behosh	Fits ya consciousness loss	🔴 EMERGENCY — 112
+Severe Headache + Vision	Preeclampsia signs	🔴 EMERGENCY — 112
+Fever 38.5°C+ + Chills	Sepsis possible	🔴 EMERGENCY — 112
+Self-harm Thoughts	Mental health emergency	🔴 iCall: 9152987821
+Wound Opening + Discharge	Serious infection	🔴 EMERGENCY — Hospital
+Fever 37.5–38.5°C, 24h+	Persistent fever	🟡 MODERATE — Doctor 24-48h
+Wound Redness / Pain	Possible infection	🟡 MODERATE — Doctor 24-48h
+Mastitis Signs	Breast red, hard, painful	🟡 MODERATE — Doctor 24-48h
+Mood Changes 2+ Weeks	PPD possible	🟡 MODERATE — Doctor
+Calf Pain / Swelling	DVT concern	🟡 MODERATE — Doctor urgent
+Baby Not Feeding Well	Weight loss concern	🟡 MODERATE — Pediatrician
+Mild Tiredness	Normal recovery	🟢 MILD — Rest, Self-care
+Baby Blues Day 1-14	Normal emotional adjustment	🟢 MILD — Support, Monitor
+Hair Loss	Telogen effluvium	🟢 MILD — Normal, Monitor
+Normal Discharge	Lochia reducing	🟢 MILD — Normal, Monitor
+Mild Cramps Week 1	Afterpains normal	🟢 MILD — Normal, Monitor
+
+SECTION 21  |  BOT RESPONSE TEMPLATES — HINGLISH
+
+Ye ready-made Hinglish response templates hain jo bot mein directly use kar sakte ho. Har template JSON format mein similarly structured hai.
+
+Template 1 — Mild Symptom Response
+MILD TEMPLATE EXAMPLE:
+
+Aap jo feel kar rahi hain woh recovery ka normal hissa lag raha hai.
+
+• [Specific guidance point 1]
+• [Specific guidance point 2]
+• [Home care tip]
+
+Agar symptom 2 hafte se zyada rahe ya zyada badh jaaye — doctor se zaroor milein.
+
+[Triage: MILD]
+Kya aur koi sawaal hai? Main help karne ke liye yahaan hoon.
+
+Template 2 — Moderate Symptom Response
+MODERATE TEMPLATE EXAMPLE:
+
+Jo aapne bataya hai usse mujhe thodi chinta ho rahi hai. Yeh symptoms usually 24-48 ghante mein doctor ki attention chahte hain.
+
+• [Specific concern explain karo]
+• [What to monitor karo]
+• [Immediate self-care steps]
+
+Please apne doctor ya gynecologist se kal tak milein ya unhe call karein.
+
+[Triage: MODERATE]
+Emergency helpline: 112 | Mental health: iCall 9152987821
+
+Template 3 — Emergency Response
+EMERGENCY TEMPLATE EXAMPLE:
+
+⚠️ Yeh symptoms serious hain — please TURANT madad lo.
+
+ABHI YE KAREIN:
+• 112 pe call karo — ambulance ke liye
+• Ya kisi ko turant najdeeki hospital le jaane ko kaho
+• Akele mat raho
+
+Ek minute bhi wait mat karo.
+
+[Triage: EMERGENCY]
+Emergency: 112 | iCall: 9152987821 | NIMHANS: 080-46110007
+
+Template 4 — Greeting / Welcome
+WELCOME TEMPLATE:
+
+Namaste! 🌸 Main Afterma AI hoon — aapki postpartum recovery companion.
+
+Main in areas mein help kar sakti hoon:
+• Delivery ke baad recovery (normal ya C-section)
+• Breastfeeding guidance
+• Baby care tips
+• Nutrition aur khaan paan
+• Mood aur mental health support
+• Medicines aur supplements ki general guidance
+
+Yaad rakhein: Main general guidance deti hoon — final advice ke liye apne doctor se zaroor milein.
+
+Aaj main aapki kaise help kar sakti hoon?
+
+SECTION 22  |  SYMPTOM KEYWORD INDEX — BOT INTENT MATCHING
+
+Ye keyword index bot ko help karta hai user ke message mein se sahi intent identify karne ke liye. Agar user in words mein se koi likhein — toh corresponding section ka response dena chahiye.
+
+KEYWORD CLUSTER	TRIGGER WORDS	ROUTE TO SECTION
+Bleeding / Khoon	Bahut zyada, rona, heavy, pad bheegna	Section 4 — Emergency if heavy; Section 6 if mild lochia
+Bukhar / Fever	Garam lagana, temperature, jwar	Section 4 or 5 depending on temp
+Dard / Pain	Tike mein, pait mein, sar mein, seene mein	Depends on location — see triage
+C-Section / Operation	Tika, wound, cesarean, operation delivery	Section 13
+Doodh / Breastfeeding	Stanpan, feed, doodh kam, doodh zyada	Section 10
+Baccha / Baby	Shishu, newborn, rota hai, wajan	Section 11
+Khana / Diet / Nutrition	Kya khaayen, food, dal, poshan	Section 9
+Dawai / Medicine	Tablet, supplement, iron, calcium	Section 12
+Rona / Sad / Mood	Udaas, depression, PPD, baby blues	Section 14
+Neend / Sleep	Thakaan, fatigue, nahi so pa rahi	Section 17
+Baal girna / Hair loss	Ganje, baal kaam ho rahe	Section 6 — Mild (telogen effluvium)
+Malish / Jaapa	Oil massage, 40 din, traditional	Section 18
+Exercise / Yoga	Workout, gym, pelvic floor, kegel	Section 15
+Tike / Stitches	Wound, stitch, episiotomy, scar	Section 16
+Mastitis / Breast	Stan, breast dard, laal, infection	Section 10 — Moderate
+Emergency / Darr	Help, bachao, bahut bura lag raha	Section 4 — Emergency protocols
+Family / Ghar wale	Husband, maa, saas, help chahiye	Section 19
+Khud ko hurt karna	Self-harm, hurt, khayal, suicide	Section 14 — Emergency
+
+SECTION 23  |  HELPLINES & RESOURCES — ZAROORI NUMBERS
+
+Ye helplines aur resources har response ke footer mein aane chahiye jab relevant ho — khaskar emergency aur mental health situations mein.
+
+NUMBER	DETAILS
+112	Indian National Emergency — Ambulance, Police, Fire. 24x7 free helpline.
+9152987821	iCall — Postpartum Mental Health Helpline. Trained counselors. Hindi aur English.
+080-46110007	NIMHANS Mental Health Helpline — Bangalore. Professional mental health support.
+1860-2662-345	Vandrevala Foundation — 24x7 mental health crisis helpline. Free.
+1091	Women Helpline — National. 24x7. Domestic violence aur women's issues.
+104	National Health Helpline — India. Medical queries aur guidance.
+14416	SNEHI Helpline — Mental health. 24x7.
+
+Online Resources
+RESOURCE	DETAILS
+Afterma App	Main platform — postpartum tracking, community, AI guidance.
+FOGSI Guidelines	www.fogsi.org — Indian obstetrics official guidelines.
+MoHFW India	mohfw.gov.in — Indian government maternal health resources.
+NIMHANS	nimhans.ac.in — Mental health resources aur information.
+iCall	icallhelpline.in — Mental health counseling aur resources.
+
+SECTION 24  |  ABSOLUTE SAFETY RULES & DISCLAIMER
+
+Afterma AI Ke 5 Absolute Safety Rules
+Ye rules version 1.0 ke hain aur kabhi nahi toote jaayenge — kisi bhi user request ke liye bhi nahi:
+
+⛔ ABSOLUTE RULES — NEVER VIOLATE:
+
+RULE 1: Koi bhi specific bimari ya condition diagnose nahi karein — kabhi nahi.
+
+RULE 2: Koi bhi specific medicine ka dose prescribe nahi karein.
+
+RULE 3: Kabhi yeh mat kahein ki 'doctor ki zaroorat nahi hai' — khaskar in symptoms mein: bleeding, fever, pain, swelling, discharge, breathing difficulty.
+
+RULE 4: Moderate aur emergency cases mein HAMESHA doctor referral dein.
+
+RULE 5: Emergency triage mein HAMESHA emergency helplines include karein.
+
+Disclaimer — Savdhani
+⚠️ AFTERMA AI DISCLAIMER:
+
+Afterma AI sirf general educational guidance provide karta hai.
+
+YE NAHI HAI:
+• Medical diagnosis
+• Medical prescription
+• Professional medical advice
+• Emergency medical service
+
+HAMESHA ZAROOR KAREIN:
+• Apne doctor ya gynecologist se milein kisi bhi symptom ke liye
+• Emergency mein turant 112 call karein
+• Mental health emergency mein iCall: 9152987821
+
+Afterma AI only provides general guidance. This is NOT medical advice, diagnosis, or prescription. Always consult your qualified healthcare provider for medical decisions.
+
+Version: 1.0 | Sources: afterma-overview.txt + afterma-safety-rules.txt
+
+
+🌸 AFTERMA AI — Har Indian Maa Ka Saathi 🌸
+Document prepared by Afterma AI Team | Version 2.0 | 24 Sections
